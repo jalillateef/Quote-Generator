@@ -1,3 +1,4 @@
+![Screen Shot 2021-08-17 at 11 49 45 PM](https://user-images.githubusercontent.com/84736245/129834086-fe733de9-e916-40db-91f3-bffc5000fa52.png)
 # Quote-Generator
 
 #DESCRIPTION
