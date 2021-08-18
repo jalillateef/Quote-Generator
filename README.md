@@ -14,6 +14,8 @@ I learned how to target an objects properties, similar to getting data from an A
 
 ![Screen Shot 2021-08-17 at 11 49 45 PM](https://user-images.githubusercontent.com/84736245/129834148-1c841329-6a3e-47f7-ac3f-41c704be57ef.png)
 
+Check the project out live here  https://jalillateef.github.io/Quote-Generator/
+
 
 
 
